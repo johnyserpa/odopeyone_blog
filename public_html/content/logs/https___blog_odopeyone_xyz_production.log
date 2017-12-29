@@ -1,0 +1,70 @@
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: posts ","time":"2017-10-10T22:13:11.725Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: posts ","time":"2017-10-10T22:13:11.728Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: users ","time":"2017-10-10T22:13:11.803Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: users ","time":"2017-10-10T22:13:11.804Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: roles ","time":"2017-10-10T22:13:11.879Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: roles ","time":"2017-10-10T22:13:11.879Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: roles_users ","time":"2017-10-10T22:13:11.953Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: roles_users ","time":"2017-10-10T22:13:11.954Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions ","time":"2017-10-10T22:13:11.991Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions ","time":"2017-10-10T22:13:11.992Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_users ","time":"2017-10-10T22:13:12.049Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_users ","time":"2017-10-10T22:13:12.049Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_roles ","time":"2017-10-10T22:13:12.078Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_roles ","time":"2017-10-10T22:13:12.079Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_apps ","time":"2017-10-10T22:13:12.112Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: permissions_apps ","time":"2017-10-10T22:13:12.112Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: settings ","time":"2017-10-10T22:13:12.180Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: settings ","time":"2017-10-10T22:13:12.182Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: tags ","time":"2017-10-10T22:13:12.247Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: tags ","time":"2017-10-10T22:13:12.247Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: posts_tags ","time":"2017-10-10T22:13:12.291Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: posts_tags ","time":"2017-10-10T22:13:12.291Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: apps ","time":"2017-10-10T22:13:12.381Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: apps ","time":"2017-10-10T22:13:12.381Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: app_settings ","time":"2017-10-10T22:13:12.477Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: app_settings ","time":"2017-10-10T22:13:12.478Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: app_fields ","time":"2017-10-10T22:13:12.572Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: app_fields ","time":"2017-10-10T22:13:12.572Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: clients ","time":"2017-10-10T22:13:12.639Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: clients ","time":"2017-10-10T22:13:12.639Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2017-10-10T22:13:12.699Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2017-10-10T22:13:12.699Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: accesstokens ","time":"2017-10-10T22:13:12.762Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: accesstokens ","time":"2017-10-10T22:13:12.762Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: refreshtokens ","time":"2017-10-10T22:13:12.872Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: refreshtokens ","time":"2017-10-10T22:13:12.872Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: subscribers ","time":"2017-10-10T22:13:13.011Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: subscribers ","time":"2017-10-10T22:13:13.011Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: invites ","time":"2017-10-10T22:13:13.059Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: invites ","time":"2017-10-10T22:13:13.060Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: brute ","time":"2017-10-10T22:13:13.115Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Creating table: brute ","time":"2017-10-10T22:13:13.115Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Post ","time":"2017-10-10T22:13:13.145Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Post ","time":"2017-10-10T22:13:13.145Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Tag ","time":"2017-10-10T22:13:13.691Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Tag ","time":"2017-10-10T22:13:13.692Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Client ","time":"2017-10-10T22:13:13.728Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Client ","time":"2017-10-10T22:13:13.728Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Role ","time":"2017-10-10T22:13:13.778Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Role ","time":"2017-10-10T22:13:13.781Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Permission ","time":"2017-10-10T22:13:13.822Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: Permission ","time":"2017-10-10T22:13:13.822Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: User ","time":"2017-10-10T22:13:14.343Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Model: User ","time":"2017-10-10T22:13:14.343Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: Role to Permission ","time":"2017-10-10T22:13:14.935Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: Role to Permission ","time":"2017-10-10T22:13:14.935Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: Post to Tag ","time":"2017-10-10T22:13:15.473Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: Post to Tag ","time":"2017-10-10T22:13:15.473Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: User to Role ","time":"2017-10-10T22:13:15.593Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18325,"level":30,"msg":"Relation: User to Role ","time":"2017-10-10T22:13:15.593Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ghost is running in production... ","time":"2017-10-10T22:13:27.455Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ghost is running in production... ","time":"2017-10-10T22:13:27.457Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Your blog is now available on https://blog.odopeyone.xyz/ ","time":"2017-10-10T22:13:27.464Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ctrl+C to shut down ","time":"2017-10-10T22:13:27.466Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Your blog is now available on https://blog.odopeyone.xyz/ ","time":"2017-10-10T22:13:27.464Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ctrl+C to shut down ","time":"2017-10-10T22:13:27.466Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ghost boot 5.172s ","time":"2017-10-10T22:13:27.470Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":30,"msg":"Ghost boot 5.172s ","time":"2017-10-10T22:13:27.470Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":40,"msg":"Ghost has shut down ","time":"2017-10-10T22:17:56.988Z","v":0}
+{"name":"Log","hostname":"gadfly","pid":18401,"level":40,"msg":"Ghost has shut down ","time":"2017-10-10T22:17:56.989Z","v":0}
